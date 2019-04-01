@@ -1,5 +1,5 @@
 def square_array(array)
-  array.each do
+  For array.each do
     x**2
   end
 end
